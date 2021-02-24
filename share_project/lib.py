@@ -1,2 +1,7 @@
+# share_project/lib.py
+
 def try_me():
-    print('VAMOS FLAMENGO!!!')
+    return 'VAMOS FLAMENGO!!!'
+
+if __name__ == "__main__":
+    print(try_me())
